@@ -12,6 +12,6 @@ function sum(a, b) {
   return a+b
 }
 
-var result = add(10, 20)
+var result = sum(10, 20)
 result.toLocaleString()
-// var result = add(10, '20')
+// var result = sum(10, '20')
