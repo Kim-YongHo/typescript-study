@@ -20,6 +20,10 @@ function startApp() {
     .catch(function (error) {
       console.log(error);
     });
+
+
+
+    
 }
 
 startApp();
